@@ -1,0 +1,4 @@
+BUILD\**
+.vscode\**
+7SegSRDriver\**
+mbed-os\**
